@@ -1,4 +1,4 @@
-# Dynamic Point Cloud Action Recognition with Static Models via Implicit-explicit Temporal Dependence Enhancement
+# TimeNet
 
 ## Action Recognition results on MSR-Action3D
 | Methods                                | 4     | 8     | 12    | 16    | 20    | 24   |        
@@ -11,5 +11,4 @@
 | Anchor-Based Spatio-Temporal Attention | 80.13 | 87.54 | 89.90 | 91.24 | -     | 93.03 |
 | Kinet                                  | 79.80 | 83.84 | 88.53 | 91.92 | -     | 93.27 |
 | PST-Transformer                        | 81.14 | 83.97 | 88.15 | 91.98 | -     | 93.73 |
-| TimeNet(Ours)                          | 74.74 | 86.73 | 90.91 | 93.27 | -     | 97.35 |
 
